@@ -2,7 +2,7 @@
   
 # 👋 Welcome to My GitHub Profile
 
-<img src="INTRO VID FINAL.gif" alt="Header Banner" width="800"/>
+<img src="INTRO VID FINAL.gif" alt="Header Banner" width="400"/>
 
 ### 🚀 Computer Science Student | AI Enthusiast | Developer
 
